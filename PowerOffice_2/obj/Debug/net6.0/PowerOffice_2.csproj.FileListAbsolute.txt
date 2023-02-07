@@ -1,0 +1,15 @@
+C:\Users\srr\source\repos\PowerOffice_1\PowerOffice_2\obj\Debug\net6.0\PowerOffice_2.csproj.AssemblyReference.cache
+C:\Users\srr\source\repos\PowerOffice_1\PowerOffice_2\obj\Debug\net6.0\PowerOffice_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srr\source\repos\PowerOffice_1\PowerOffice_2\obj\Debug\net6.0\PowerOffice_2.AssemblyInfoInputs.cache
+C:\Users\srr\source\repos\PowerOffice_1\PowerOffice_2\obj\Debug\net6.0\PowerOffice_2.AssemblyInfo.cs
+C:\Users\srr\source\repos\PowerOffice_1\PowerOffice_2\obj\Debug\net6.0\PowerOffice_2.csproj.CoreCompileInputs.cache
+C:\Users\srr\source\repos\PowerOffice_1\PowerOffice_2\bin\Debug\net6.0\PowerOffice_2.exe
+C:\Users\srr\source\repos\PowerOffice_1\PowerOffice_2\bin\Debug\net6.0\PowerOffice_2.deps.json
+C:\Users\srr\source\repos\PowerOffice_1\PowerOffice_2\bin\Debug\net6.0\PowerOffice_2.runtimeconfig.json
+C:\Users\srr\source\repos\PowerOffice_1\PowerOffice_2\bin\Debug\net6.0\PowerOffice_2.dll
+C:\Users\srr\source\repos\PowerOffice_1\PowerOffice_2\bin\Debug\net6.0\PowerOffice_2.pdb
+C:\Users\srr\source\repos\PowerOffice_1\PowerOffice_2\obj\Debug\net6.0\PowerOffice_2.dll
+C:\Users\srr\source\repos\PowerOffice_1\PowerOffice_2\obj\Debug\net6.0\refint\PowerOffice_2.dll
+C:\Users\srr\source\repos\PowerOffice_1\PowerOffice_2\obj\Debug\net6.0\PowerOffice_2.pdb
+C:\Users\srr\source\repos\PowerOffice_1\PowerOffice_2\obj\Debug\net6.0\PowerOffice_2.genruntimeconfig.cache
+C:\Users\srr\source\repos\PowerOffice_1\PowerOffice_2\obj\Debug\net6.0\ref\PowerOffice_2.dll
