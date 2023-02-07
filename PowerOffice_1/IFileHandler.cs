@@ -6,6 +6,5 @@
         IEnumerable<string> ReadFromFile(string filepath);
 
         public void AppendLineToFile(string filepath, string line);
-        // åpne file og legg til
     }
 }
