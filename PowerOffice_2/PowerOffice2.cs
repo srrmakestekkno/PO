@@ -43,21 +43,19 @@ public static class PowerOffice2
             ConsoleDataFormatter.FormatTable(keys);
             ConsoleDataFormatter.FormatTable(emps);
             ConsoleDataFormatter.FormatTable(pros);
+            ConsoleDataFormatter.PrintSeperatorLine();
 
         }
         catch (Exception e)
         {
             Console.WriteLine(e.Message);
         }
-
-        
     }
-
-    
+        
 
     private static string CreatePath(string filename)
     {
-        var path = Path.GetFullPath(Path.Combine(System.AppContext.BaseDirectory, @"..\..\..\..\"));
+        var path = Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, @"..\..\..\..\"));
         return Path.Combine(path, filename);
     }
 
