@@ -1,11 +1,6 @@
 ﻿using Moq;
 using PowerOffice_1;
 using PowerOffice_1.DataObjects;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace PowerOfficeTests
 {
@@ -14,10 +9,10 @@ namespace PowerOfficeTests
     {
         private readonly Mock<IExternalApiProxy> _proxy;
         private readonly IService _service;
-        private IFileHandler _fileHandler;
-        private string _inputFilePath = CreatePath("test-kunder.csv");
-        private string _errorLogFilePath = CreatePath("errorlog-from-service-test.txt");
-        private string _outputFilePath = CreatePath("test-output.csv");
+        private readonly IFileHandler _fileHandler;
+        private readonly string _inputFilePath = CreatePath("test-kunder.csv");
+        private readonly string _errorLogFilePath = CreatePath("errorlog-from-service-test.txt");
+        private readonly string _outputFilePath = CreatePath("test-output.csv");
 
         public ServiceTests()
         {
